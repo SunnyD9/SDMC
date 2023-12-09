@@ -1,0 +1,6 @@
+Example: High-Temperature warning
+
+Cond: 120 uS/cm
+pH: 7.0
+Temp: 82 C
+Check Temp: Too High!
